@@ -1,0 +1,50 @@
+
+.sidebar {
+  width: 200px;
+  float: left;
+  background-color: #f8f9fa;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  color: blue;
+  list-style-type: none;
+  padding-top: 0px;
+}
+
+border-bottom{
+  background: url('../img/line.png')
+}
+
+h3{
+  font-family; sans-serif;
+  font-weight: 90%;
+}
+
+.jumbotron {
+  background-color: #f8f9fa;
+  float: right;
+  width: 85%;
+  padding-right: 10px;
+  border: 2px;
+  border-color: black;
+}
+
+.col-md-2{
+  margin-left: 10px;
+}
+
+.row {
+  height: 5px;
+}
+.container{
+  width: 85%;
+  float: right;
+}
+.mainmenu {
+  padding-left: 211px;
+  padding-top: 50px;
+}
+
+.right {
+  color: red;
+}
